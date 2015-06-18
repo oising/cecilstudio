@@ -1,0 +1,1 @@
+Cecil Studio is a front-end to Mono.Cecil and Cecil.Decompiler, written using the System.Windows.Forms toolkit, with a focus on extensibility, and platform agnosticism.
